@@ -1,0 +1,23 @@
+
+
+body {
+    background-color:  #dbbe1e;
+    height: 100%;
+    /*background: linear-gradient( 50%, #00FFFF 50%);*/
+}
+
+h1 {
+    color: #255ADF;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+p {
+    color: darkslategrey
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol {
+    color: darkred;
+}
