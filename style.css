@@ -1,7 +1,7 @@
 
 
 body {
-    background-color:  #dbbe1e;
+    background-color:  #4d3f05;
     height: 100%;
     /*background: linear-gradient( 50%, #00FFFF 50%);*/
 }
@@ -18,12 +18,12 @@ h3 {
 }
 
 p {
-    color: darkslategrey;
+    color: #b5e6a1;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 ol {
-    color: darkred;
+    color: #e37d68;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
